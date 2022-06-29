@@ -1,4 +1,4 @@
-# Data Aggregation using relational database concepts of Pandas Library and Visualisation
+# Data Aggregation and Visualisation using relational database concepts of Pandas Library and NetworkX
 
 There are four tables 
 1. Users.csv contains data about the users of a social net
